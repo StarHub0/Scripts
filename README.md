@@ -1,3 +1,3 @@
 old paid hub for OPL, including dupe fruit, dupe compass, infinite compass token, affinities, etc...
 
-credits: github.com/TheFrogGod/Gists/blob/main/Gists/DataStoreVulnerabilities.md
+[credits](https://github.com/TheFrogGod/Gists/blob/main/Gists/DataStoreVulnerabilities.md)
